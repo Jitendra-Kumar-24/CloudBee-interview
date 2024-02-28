@@ -8,9 +8,9 @@
 
 <H2>API's details</h2>
 
-<h4>POST call to book the train ticket
-http://localhost:8080/service/train/purchaseTicket
-</h4>
+<h4>POST call to book the train ticket</h4>
+<h4><p>http://localhost:8080/service/train/purchaseTicket</h4></p>
+
 Request Body example for the post call
 <pre>
 <code>
@@ -28,14 +28,13 @@ Request Body example for the post call
 </code>
 </pre>
 
-<h4>Get call to get the ticket details
-http://localhost:8080/service/train/ticket/
-</h4>
+<h4>Get call to get the ticket details</h4>
+<h4><p>http://localhost:8080/service/train/ticket/<p></h4>
 
 <h4>Get call to see the details of the requested compartment
-http://localhost:8080/service/train/compartment/A
+<h4><p>http://localhost:8080/service/train/compartment/A<p></h4>
 </h4>
 
 <h4>Delete call to delete the user and his reserved ticket from the system
-http://localhost:8080/service/train/deleteUser/283293395
+<h4><p>http://localhost:8080/service/train/deleteUser/283293395<p></h4>
 </h4>
